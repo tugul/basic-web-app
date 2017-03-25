@@ -1,7 +1,7 @@
 package tutorial;
 
 /**
- * Created by bbn on 24/03/17.
+ * Created by tugul on 24/03/17.
  */
 public class Calculator {
     public int abs(int value){

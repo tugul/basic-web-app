@@ -10,7 +10,7 @@ import static org.mockito.Mockito.*;
 
 
 /**
- * Created by bbn on 24/03/17.
+ * Created by tugul on 24/03/17.
 */
 public class TestCalculator {
     @Mock
